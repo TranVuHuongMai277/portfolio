@@ -203,20 +203,20 @@ const certifications = [
 ];
 
 const socialImgs = [
+  // {
+  //   name: "insta",
+  //   url: "https://www.instagram.com/__iamgnouh/",
+  //   imgPath: `${BASE_URL}/images/instagram.jpg`,
+  // },
+  // {
+  //   name: "fb",
+  //   url: "https://chat.zalo.me/",
+  //   imgPath: `${BASE_URL}/images/zalo.png`,
+  // },
   {
-    name: "insta",
-    url: "https://www.instagram.com/__iamgnouh/",
-    imgPath: `${BASE_URL}/images/instagram.jpg`,
-  },
-  {
-    name: "fb",
-    url: "https://chat.zalo.me/",
-    imgPath: `${BASE_URL}/images/zalo.png`,
-  },
-  {
-    name: "facebook",
-    url: "https://www.facebook.com/huongmai.277?mibextid=wwXIfr&rdid=lbbLYNCMS4rkM3sh&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ApEXX7zDg%2F%3Fmibextid%3DwwXIfr",
-    imgPath: `${BASE_URL}/images/facebook.jpg`,
+    name: "github",
+    url: "https://github.com/TranVuHuongMai277",
+    imgPath: `${BASE_URL}/images/github.jpg`,
   },
   // {
   //   name: "linkedin",

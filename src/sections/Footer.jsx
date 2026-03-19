@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="footer-container">
         <div className="flex flex-col justify-center">
           <p>+84 768.975.604</p>
-          <p>phuchai5904@gmail.com</p>
+          <p>Huongmaitran27704@gmail.com</p>
         </div>
 
         <div className="socials">
